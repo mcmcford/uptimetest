@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-22": 18
+      "2021-02-22": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://37.120.159.212:44444/web/index.html",
     "icon": "https://favicons.githubusercontent.com/37.120.159.212",
     "slug": "plex-media-server",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "status": "up",
+    "uptime": "91.29%",
+    "uptimeDay": "91.29%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "91.29%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2021-02-22": 0
+      "2021-02-22": 2
     }
   }
 ]
