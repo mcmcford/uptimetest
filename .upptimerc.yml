@@ -6,6 +6,7 @@ repo: uptimetest # Your GitHub repository name
 sites:
   - name: McFord Photography
     url: https://www.mcford.co.uk
+    __dangerous__insecure: true
     headers:
     - "Authorization: Bearer https://www.mcford.co.uk"
     - "Content-Type: application/json"
