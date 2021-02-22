@@ -7,9 +7,9 @@ sites:
   - name: McFord Photography
     url: https://www.mcford.co.uk
     __dangerous__insecure: true
-   headers:
-   - "Authorization: Bearer https://www.mcford.co.uk"
-   - "Content-Type: application/json"
+   #headers:
+   #- "Authorization: Bearer https://www.mcford.co.uk"
+   #- "Content-Type: application/json"
   - name: Plex Media Server
     url: http://37.120.159.212:44444/web/index.html
   #- name: Hacker News
