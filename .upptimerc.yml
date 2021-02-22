@@ -6,10 +6,10 @@ repo: uptimetest # Your GitHub repository name
 sites:
   - name: McFord Photography
     url: https://www.mcford.co.uk
-  - name: Plex Media Server
-    url: http://37.120.159.212:44444/web/index.html
     expectedStatusCodes:
       - SEC_ERROR_UNKNOWN_ISSUER
+  - name: Plex Media Server
+    url: http://37.120.159.212:44444/web/index.html
   #- name: Hacker News
   #  url: https://news.ycombinator.com
   #- name: Broken Site
