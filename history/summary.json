@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
     "status": "up",
-    "uptime": "33.16%",
-    "uptimeDay": "33.16%",
-    "uptimeWeek": "33.16%",
-    "uptimeMonth": "33.16%",
-    "uptimeYear": "33.16%",
+    "uptime": "49.66%",
+    "uptimeDay": "49.66%",
+    "uptimeWeek": "49.66%",
+    "uptimeMonth": "49.66%",
+    "uptimeYear": "49.66%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
@@ -24,17 +24,19 @@
     "url": "http://37.120.159.212:44444/web/index.html",
     "icon": "https://favicons.githubusercontent.com/37.120.159.212",
     "slug": "plex-media-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 0
+    }
   }
 ]
