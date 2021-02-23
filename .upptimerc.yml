@@ -11,7 +11,7 @@ sites:
    #- "Authorization: Bearer https://www.mcford.co.uk"
    #- "Content-Type: application/json"
   - name: Plex Media Server
-    url: http://37.120.159.212:44444/web/index.html
+    url: $PLEX_URL
   #- name: Hacker News
   #  url: https://news.ycombinator.com
   #- name: Broken Site
