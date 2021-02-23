@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mcford.co.uk",
     "slug": "mc-ford-photography",
     "status": "up",
-    "uptime": "80.53%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "80.53%",
-    "uptimeMonth": "80.53%",
-    "uptimeYear": "80.53%",
+    "uptime": "83.11%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "83.11%",
+    "uptimeYear": "83.11%",
     "time": 475,
     "timeDay": 475,
     "timeWeek": 475,
@@ -24,19 +24,19 @@
     "url": "$PLEX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex-media-server",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "86.57%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "86.57%",
+    "uptimeMonth": "86.57%",
+    "uptimeYear": "86.57%",
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2021-02-23": 1
+      "2021-02-23": 51
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "p4-server",
     "status": "down",
-    "uptime": "0.32%",
-    "uptimeDay": "0.32%",
-    "uptimeWeek": "0.32%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 159
+      "2021-02-23": 210
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 124
+      "2021-02-23": 175
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$TS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "torrent-server",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "status": "up",
+    "uptime": "65.07%",
+    "uptimeDay": "65.07%",
+    "uptimeWeek": "65.07%",
+    "uptimeMonth": "65.07%",
+    "uptimeYear": "65.07%",
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 51
     }
   }
 ]
