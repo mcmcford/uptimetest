@@ -10,8 +10,10 @@ sites:
    #headers:
    #- "Authorization: Bearer https://www.mcford.co.uk"
    #- "Content-Type: application/json"
+    icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/smallest%20logo-min.ico
   - name: Plex Media Server
     url: $PLEX_URL
+    icon: https://cleverdevil.io/file/352fbde6114d1620746cc0d32e9fadad
   - name: P4 server
     url: $P4_SERVER
     status-website: under maintenance 
