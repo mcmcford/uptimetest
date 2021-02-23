@@ -26,8 +26,8 @@ sites:
     __dangerous__insecure: true
   - name: TorrentServer
     url: $TS
-  #- name: Secret Site
-  #  url: $SECRET_SITE
+  - name: Twitchy Server
+    url: $TWITCHY
 
 status-website:
   theme: dark
