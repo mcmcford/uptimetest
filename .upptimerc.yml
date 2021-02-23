@@ -22,14 +22,17 @@ sites:
    # __dangerous__insecure: true
   - name: Email Server
     url: $EMAIL_SERVER
+    icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/Mailnew.ico
     status-website: under maintenance 
     assignees: # Users to assign downtime issues (optional)
     - Morgan McFord
     __dangerous__insecure: true
   - name: Torrent Server
     url: $TS
+    icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/qbt.ico
   - name: Twitchy Server
     url: $TWITCHY
+    icon: https://github.com/mcmcford/uptimetest/blob/master/assets/TWITCHY%20PINK%20LOGO.jpg?raw=true
 
 status-website:
   theme: ocean
