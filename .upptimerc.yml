@@ -29,7 +29,7 @@ status-website:
 
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptimetest
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/mcmcford/uptimetest/5edd3ff09ace663b9e87dec10555b258f52c171a/assets/image2vector.svg
   name: McFord Uptime
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
