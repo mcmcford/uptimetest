@@ -18,9 +18,8 @@ sites:
   - name: Email Server
     url: $EMAIL_SERVER
     __dangerous__insecure: true
-  #- name: Test for HEAD
-  #  method: HEAD
-  #  url: https://www.google.com
+  - name: TorrentServer
+    url: $TS
   #- name: Secret Site
   #  url: $SECRET_SITE
 
