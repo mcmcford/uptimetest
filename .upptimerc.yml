@@ -24,7 +24,7 @@ sites:
     assignees: # Users to assign downtime issues (optional)
     - Morgan McFord
     __dangerous__insecure: true
-  - name: TorrentServer
+  - name: Torrent Server
     url: $TS
   - name: Twitchy Server
     url: $TWITCHY
