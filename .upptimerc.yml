@@ -23,7 +23,10 @@ sites:
   - name: Email Server
     url: $EMAIL_SERVER
     icon: https://raw.githubusercontent.com/mcmcford/uptimetest/master/assets/Mailnew.ico
-    status-website: under maintenance 
+    expectedStatusCodes:
+      - Quote command returned error
+      - 550
+    # status-website: under maintenance 
     assignees: # Users to assign downtime issues (optional)
     - Morgan McFord
     __dangerous__insecure: true
