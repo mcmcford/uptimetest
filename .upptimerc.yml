@@ -12,7 +12,7 @@ sites:
    #- "Content-Type: application/json"
   - name: Plex Media Server
     url: $PLEX_URL
-    name: P4 server
+  - name: P4 server
     url: $P4_SERVER
   #- name: Broken Site
   #  url: https://thissitedoesnotexist.com
