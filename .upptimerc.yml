@@ -20,10 +20,14 @@ sites:
     assignees: # Users to assign downtime issues (optional)
     - Morgan McFord
   # __dangerous__insecure: true
-  #- name: Aurelia server
-  #  url: $AURELIA
-  #  __dangerous__insecure: true
-  #  icon: https://cdn.discordapp.com/attachments/785818419969785876/802561338526007346/Aurelia.png
+  - name: Aurelia server
+    url: $AURELIA
+    __dangerous__insecure: true
+    icon: https://cdn.discordapp.com/attachments/785818419969785876/802561338526007346/Aurelia.png
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "Protocol Version": "754" }{"Server Address": "37.187.24.224"}{"Server Port": "25603"}{"Next State": "1"}'
   #  expectedStatusCodes:
   #    - ERR_CONNECTION_REFUSED
     # status-website: under maintenance 
