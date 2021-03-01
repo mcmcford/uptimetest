@@ -1,4 +1,4 @@
-# [📈 Live Status](https://mcmcford.github.io/uptimetest): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://mcmcford.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 **Quick Overview**
 
@@ -24,7 +24,7 @@
 
 <!--end: status pages-->
 
-[**Visit the status website →**](https://mcmcford.github.io/uptimetest)
+[**Visit the status website →**](https://mcmcford.github.io/uptime)
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
