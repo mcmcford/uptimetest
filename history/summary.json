@@ -57,11 +57,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "p4-server",
     "status": "down",
-    "uptime": "96.04%",
+    "uptime": "96.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.04%",
+    "uptimeYear": "96.05%",
     "time": 247,
     "timeDay": 0,
     "timeWeek": 0,
@@ -108,9 +108,9 @@
     "url": "$TWITCHY",
     "icon": "https://github.com/mcmcford/uptimetest/blob/master/assets/TWITCHY%20PINK%20LOGO.jpg?raw=true",
     "slug": "twitchy-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,6 +119,8 @@
     "timeWeek": 257,
     "timeMonth": 256,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-03": 0
+    }
   }
 ]
