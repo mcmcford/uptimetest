@@ -118,19 +118,19 @@
     "url": "$TWITCHY",
     "icon": "https://github.com/mcmcford/uptimetest/blob/master/assets/TWITCHY%20PINK%20LOGO.jpg?raw=true",
     "slug": "twitchy-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 282,
-    "timeDay": 256,
-    "timeWeek": 395,
+    "timeDay": 279,
+    "timeWeek": 384,
     "timeMonth": 308,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2021-08-06": 0,
+      "2021-08-06": 13,
       "2021-08-04": 29
     }
   }
